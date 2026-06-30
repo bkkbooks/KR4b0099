@@ -1,0 +1,119 @@
+canonical_identifier: bkk:krp/KR4b0099/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4b0099/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傅鶉觚集七卷
+  identifiers:
+    krp: KR4b0099
+  tags:
+    tls-dates: dat04500
+    tls-internal: swl
+    kr-categories: KR4b
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0099.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4b0099_001-CHANT.yaml, hash: 'sha256:9c269cc8215dcd868e0330511249e1e8243a4bed48cce6e407b021f61db544ba'}
+  - {seq: 2, filename: KR4b0099_002-CHANT.yaml, hash: 'sha256:84950d5f02ddb05373a0b504e5704637c1bfa4491afca7b6e1f2c58106dd101d'}
+  - {seq: 3, filename: KR4b0099_003-CHANT.yaml, hash: 'sha256:1a4812f5bca748268c7fdc5a0d7f0436f848ecd527584f669f2ae840d00efec0'}
+  - {seq: 4, filename: KR4b0099_004-CHANT.yaml, hash: 'sha256:39c52336c8c8402ca16038c464a09996f3f54a68dc818f7d1276d7b9aa48ee5e'}
+  - {seq: 5, filename: KR4b0099_005-CHANT.yaml, hash: 'sha256:c741747a22aadf13339c711366f3083e60ce411be36a422acc304a33e5da08f9'}
+  - {seq: 6, filename: KR4b0099_006-CHANT.yaml, hash: 'sha256:341e9f34b44f365a1b69c25447f1a5e18e5c8a3ed5bffa66b86090dd77cd7d6d'}
+  - {seq: 7, filename: KR4b0099_007-CHANT.yaml, hash: 'sha256:f482d9ed78772ecbb133c8f24c336887057249e0fd4316377f988eee6e301aad'}
+  - {seq: 8, filename: KR4b0099_008-CHANT.yaml, hash: 'sha256:b6cf77db8fbd77e3cfe01a647061330e8f3e7f684a19223cdcd40ebf8b379137'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4b0099_001-CHANT.markers.yaml, hash: 'sha256:a016f8be79ad3c1ac9e37ab62766ac0aaf172a91b7e490a4c24c895d86d89fe6'}
+  - {seq: 2, role: markers, filename: assets/KR4b0099_002-CHANT.markers.yaml, hash: 'sha256:74df32f673bdab704172082120f9e34dc352c3863d8111a91c0790be9ac4d8a3'}
+  - {seq: 3, role: markers, filename: assets/KR4b0099_003-CHANT.markers.yaml, hash: 'sha256:81d05e2733bc9462209f418d6dde00df9911c848f64a1513133140df63fef91d'}
+  - {seq: 4, role: markers, filename: assets/KR4b0099_004-CHANT.markers.yaml, hash: 'sha256:7a21ff029c833adea3f9b8df628f4f0a0a86b7cd17a6a223723844fa166e2dff'}
+  - {seq: 5, role: markers, filename: assets/KR4b0099_005-CHANT.markers.yaml, hash: 'sha256:af25263e572af16ea10efb1f5ce805d2f5478a67af0cf27f28a11fe08722566b'}
+  - {seq: 6, role: markers, filename: assets/KR4b0099_006-CHANT.markers.yaml, hash: 'sha256:73dd6d394a01feb14c7296d6f408bc7246f6163d641b082ae5c01f64eb9da7fa'}
+  - {seq: 7, role: markers, filename: assets/KR4b0099_007-CHANT.markers.yaml, hash: 'sha256:6826b3b83bb81da63d65b9bf4abd482ca5041bb53f7b700702484bf98c64b5a4'}
+  - {seq: 8, role: markers, filename: assets/KR4b0099_008-CHANT.markers.yaml, hash: 'sha256:42d58bac141090b98abb974edc7855be150c4a9f54c29706e562d6bdd43fdcb7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4b0099_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 6231
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4b0099_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 5376
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4b0099_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 6376
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4b0099_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 4861
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4b0099_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 4951
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4b0099_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 6121
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4b0099_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 7875
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4b0099_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 7131
+  label: 附錄
+  type: section
+  level: 1
+hash: sha256:2f09b7d5f1a6df9a9a9c5ac06458e0ce8931297fe24e381a5766d11621496833
